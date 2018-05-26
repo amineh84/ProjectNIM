@@ -1,7 +1,7 @@
 #JeuDeNimPython
 
 /////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////
-========================= Jeu de Nim en utilisant python=============================================================================
+========================= Jeu de Nim en utilisant python========================================================================
 ////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////
 
 C'est un jeu à deux joueurs. Il leurs est demandé d’entrer leurs noms avant le début de la partie. Les joueurs disposent d'un certain nombre de pierres (qui peut varier « aléatoirement » d'une partie à l'autre), disposés dans un certain nombre de tasses (qui peut également varier d'une partie à l'autre aléatoirement). A chaque tour, un joueur enlève autant de pierres d’une tasse choisie qu’il le souhaite. Celui qui prend la dernière pierre perd.
